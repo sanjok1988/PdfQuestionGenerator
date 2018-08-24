@@ -1,0 +1,14 @@
+{
+    "name": "laraveldaily/timezone",
+    "description": "demo package my first package development in laraavel",
+    "type": "laravel",
+    "license": "self",
+    "authors": [
+        {
+            "name": "Sanjok Dangol",
+            "email": "sanjog.dangol@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
